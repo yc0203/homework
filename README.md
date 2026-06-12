@@ -1,2 +1,16 @@
-# homework"- 实现了基础的 HelloWorld 程序" 
-"- 升级功能：支持键盘输入与内容回显" 
+\# homework
+
+
+
+\## Version 1
+
+\- 实现基础 HelloWorld 程序
+
+
+
+\## Version 2
+
+\- 支持键盘输入
+
+\- 支持内容回显
+
